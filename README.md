@@ -1,1 +1,1 @@
-Project link: https://yourunb.github.io/audio-player/
+Project link: https://yourunb.github.io/Audio-Player/
